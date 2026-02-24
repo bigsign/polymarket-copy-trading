@@ -1,4 +1,5 @@
 # Polymarket Trading Bot
+
 ## Performance
 <img width="285" height="200" alt="image" src="https://github.com/user-attachments/assets/c026533f-d6ff-4099-81b2-9fbd91555a8c" />
 <img width="289" height="201" alt="image" src="https://github.com/user-attachments/assets/c46394b8-0a02-4d3a-93b9-2118a68bc10f" />
