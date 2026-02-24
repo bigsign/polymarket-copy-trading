@@ -10,7 +10,10 @@
 <img width="301" height="218" alt="image" src="https://github.com/user-attachments/assets/bba8d4f7-6ddb-4155-b977-cf192287ac33" />
 <img width="299" height="205" alt="image" src="https://github.com/user-attachments/assets/f685d3b9-22f0-4ef7-8f81-3780f019d1ec" />
 ---
+
 ## https://tradingvps.io/  for **polymarekt trading bot**.
+
 ---
+
 **keywords**: polymarket arbitrage bot, polymarket trading bot, polymarket copy trading bot
 
