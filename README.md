@@ -11,6 +11,14 @@ I am actively improving the strategies now. Please wait for the next version.
 <img width="311" height="211" alt="image" src="https://github.com/user-attachments/assets/94daa259-0daf-4878-be30-8f387f3dc45a" />
 <img width="301" height="218" alt="image" src="https://github.com/user-attachments/assets/bba8d4f7-6ddb-4155-b977-cf192287ac33" />
 <img width="299" height="205" alt="image" src="https://github.com/user-attachments/assets/f685d3b9-22f0-4ef7-8f81-3780f019d1ec" />
+
+
+<img width="1688" height="929" alt="image" src="https://github.com/user-attachments/assets/a29f55fd-edd8-47b2-aa25-83c60d8507fd" />
+
+<img width="1816" height="909" alt="image" src="https://github.com/user-attachments/assets/f97e72c5-89ff-4c31-8e07-1bb36cbfea61" />
+
+<img width="1705" height="925" alt="image" src="https://github.com/user-attachments/assets/4a644244-79e3-487f-9fa3-01fa975bd77f" />
+
 ---
 
 ## https://tradingvps.io/  for **polymarekt trading bot**.
