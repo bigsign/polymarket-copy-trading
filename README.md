@@ -106,7 +106,6 @@ src/
 
 I've tested this with some top traders on Polymarket. Results were decent for about a week, then started losing. The bot is stable but not perfect - there are some edge cases I'm still working on. Here's a snapshot from when it was working well:
 
-![Performance Snapshot](https://github.com/user-attachments/assets/97c5b62c-9a2a-47f3-b899-32ea45f6e34b)
 
 **Things that affect performance:**
 - How fast the target trader executes (you'll always be slightly behind)
@@ -184,9 +183,6 @@ The bot uses `POLY_PROXY` by default in `utils/createClobClient.ts`. There's als
 
 PRs welcome. If you fix the typo in `botExcutedTime`, I'll merge it. Also looking for improvements to error handling and maybe WebSocket support instead of polling.
 
-## Contact
-
-Hit me up on Telegram [@lemnlabs](https://t.me/lemnlabs) if you have questions or want to discuss improvements.
 
 ## Disclaimer
 
